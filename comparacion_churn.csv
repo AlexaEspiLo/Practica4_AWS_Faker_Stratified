@@ -1,0 +1,4 @@
+Conjunto,Registros,Churn_0,Churn_1,Porcentaje_Churn
+Dataset completo,1000,808,192,19.2
+Entrenamiento,800,646,154,19.25
+Prueba,200,162,38,19.0
